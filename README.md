@@ -48,6 +48,12 @@ This project is a Go-based application that manages approval processes. It inclu
 
 To use this project, ensure you have Go installed and set up the necessary environment variables. The project can be run using standard Go commands.
 
+Add the package to your project using the following command:
+```shell
+go get -u github.com/ppabimanyu/pactum
+```
+
+Example usage of the package:
 ```go
 package main
 
