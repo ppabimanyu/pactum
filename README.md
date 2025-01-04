@@ -6,6 +6,10 @@
 
 This project is a Go-based application that manages approval processes. It includes functionalities for creating, updating, and deleting approval records, as well as handling the approval and rejection of these records.
 
+This package:
+- **Generating Approval Historical Logs**: Automatically records a detailed history of approval requests, making it easy to track and audit data changes.
+- **Logs Data Changes**: Keeps a comprehensive log of all data modifications, ensuring traceability and transparency in your database operations.
+
 ## Key Components
 
 ### Models
